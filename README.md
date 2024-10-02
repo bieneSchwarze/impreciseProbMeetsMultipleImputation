@@ -2,7 +2,7 @@
 
 This is the joint repository of the SOEP/DIW group working on developing routines for multiple imputation and the imprecise probability team of the Statistics Departement of the LMU.
 So far, to our knowledge, there exists no joint research bridging both fields.
-As a first step, we work on figuring out similarities and differences of both approaches using a concrete example of income data collected together with same covariates in survey data.
+As a first step, we work on figuring out similarities and differences of both approaches using the concrete example of income data collected together with some covariates in survey data.
 
 ------------
 A summary derived from ChatGPT (OpenAI, accessed 02.10.2024) about similarities of both approaches yields: Both approaches are used to handle uncertainty in data and decision-making. Here are the core similarities:<br>
