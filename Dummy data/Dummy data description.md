@@ -1,6 +1,6 @@
 # Dummy data set
 Created by Char Hilgers, 2024-10-09
-Email: chilgers@posteo.net
+Email: chilgers@diw.de
 DIW Berlin, Socio-Economic Panel
 
 ## Data frame 
